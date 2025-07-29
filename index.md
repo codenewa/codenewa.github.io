@@ -1,3 +1,4 @@
 
-Snippets:
-- [Adding tickets to commit messages](./pages/adding-ticket-to_commit-msg.md)
+# DevOps
+- [Adding tickets to commit messages](./pages/devops/adding-ticket-to_commit-msg.md)
+
